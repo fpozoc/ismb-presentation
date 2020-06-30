@@ -2,9 +2,9 @@
 
 ## COSI: EvoCompGen 826 (poster session)
 
-*Fernando Pozo Ocampo, Spanish National Cancer Research Centre (CNIO), Spain*
-*Laura Martinez Gomez, Centro Nacional de Investigaciones Oncológicas, Spain*
-*Michael Tress, Spanish National Cancer Research Centre, Spain*
+**Authors**: *Fernando Pozo Ocampo, Laura Martinez Gomez and Michael Tress*
+
+**Institution**: *Spanish National Cancer Research Centre, Spain*
 
 **Short Abstract**: Alternative Splicing (AS) of messenger RNA can generate a wide variety of mature RNA transcripts and this expression is confirmed by experimental transcript evidence. In theory these transcripts could generate protein isoforms with diverse cellular functions. However, while peptide evidence strongly supports a main protein isoform for the vast majority of coding genes, it is not clear what proportion of these AS isoforms form stable functional proteins. In fact reliable proteomics experiments have found little evidence of alternative spliced proteins, so the number of stably folded/functional proteins produced by AS remains a mystery.
 
