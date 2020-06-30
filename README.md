@@ -10,4 +10,4 @@
 
 We have developed a computational method (TRIFID) for the classification of splice isoform functional importance. This machine-learning algorithm was trained on reliable peptide evidence from proteomics analyses and classifies biologically important splice isoforms with high confidence. The algorithm ranks the most significant biological splice isoforms and we show that the highest scoring alternative exons are actually under selection pressure, unlike the vast majority of alternative exons. TRIFID can predict functional isoforms for any well-annotated eukaryotic species. The method will generate valuable insights into the cellular importance of alternative splicing.
 
-[poster.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf)
+Download and visualize the poster presentation in pdf (reference and clickable links) [here](https://gitlab.com/fpozoc/ismb2020_evocompgen_826/-/raw/master/poster/EvoCompGen_826.pdf?inline=false).
