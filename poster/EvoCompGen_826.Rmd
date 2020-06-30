@@ -52,8 +52,8 @@ sectitle_bordercol:	"#ffffff"	# Colour of the border around the section title bo
 sectitle_borderwidth:	"2mm"	# Thicknes of the section title box border.
 sectitle_boxshape:	"4mm 1mm"	# Changes the shape of the section title box.
 sectitle2_textcol:	"#8d99ae"	# Color of 2nd level header text.
-reference_textsize: "20px"
-link_col:	"#0b4545"	# Colour of other links within the poster.
+reference_textsize: "10px"
+link_col:	"#8d99ae"	# Colour of other links within the poster.
 
 output: 
   posterdown::posterdown_html:
