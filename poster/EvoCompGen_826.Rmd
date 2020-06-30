@@ -14,8 +14,8 @@ author:
 affiliation:
   - num: 1
     address: Bioinformatics Unit, Spanish National Cancer Research Center (CNIO)
-poster_width: '48in'
-poster_height: '36in'
+poster_width: 48in
+poster_height: 36in
 font_family: 'Archivo'
 titletext_fontfamily: 'Archivo'
 
