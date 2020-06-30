@@ -45,7 +45,7 @@ columnline_width:	"2mm"	# Width of line between each column.
 columnline_style:	'solid'	# Style of the column line seperator.
 sectitle_textcol:	"#ffffff"	# Colour of the poster section titles.
 sectitle_textsize:	"100px"	# Text size of the section titles (H1).
-sectitle2_textsize:	"40pt"	# Text size of the section titles (H2).
+sectitle2_textsize:	"38pt"	# Text size of the section titles (H2).
 sectitle_bgcol:	"#335c67"	# Colour of the section title box.
 sectitle_bordercol:	"#ffffff"	# Colour of the border around the section title box.
 sectitle_borderwidth:	"2mm"	# Thicknes of the section title box border.
@@ -74,11 +74,11 @@ knitr::opts_chunk$set(echo = FALSE)
 # Introduction
 ## Background
 
-Alternative Splicing (AS) of messenger RNA can generate a wide variety of mature RNA transcripts and this expression is confirmed by experimental transcript evidence. However, it is not clear how many alternative transcripts will code for functional proteins. ([Tress et al. 2017](), [Blencowe et al. 2017]()).
+Alternative Splicing (AS) of messenger RNA can generate a wide variety of mature RNA transcripts and this expression is confirmed by experimental transcript evidence. However, it is not clear how many alternative transcripts will code for functional proteins. ([Tress et al. 2017a](https://www.cell.com/trends/biochemical-sciences/pdf/S0968-0004(17)30071-3.pdf), [Blencowe et al. 2017](https://www.cell.com/trends/biochemical-sciences/pdf/S0968-0004(17)30070-1.pdf)).
  
-Proteomics analyses have shown that most coding genes have a single main splice isoform ([Ezkurdia et al. 2015]()).
+Proteomics analyses have shown that most coding genes have a single main splice isoform ([Ezkurdia et al. 2015](https://pubs.acs.org/doi/10.1021/pr501286b)).
 
-Human population variation data indicate that most alternative transcripts are evolving neutrally ([Tress et al. 2017]()).
+Human population variation data indicate that most alternative transcripts are evolving neutrally ([Tress et al. 2017](https://www.sciencedirect.com/science/article/pii/S0968000416301189?via%3Dihub)).
 
 Ever more splice isoforms are annotated every day, but we do not know their function.
 
@@ -97,7 +97,7 @@ Developing a machine learning based tool for predicting splice isoform functiona
 
 It has been trained on reliable peptide evidence from 497 genes from the largest tissue-based proteomics analysis to date (79 experiments) and 47 features categorized in 5 groups (*genome annotation*, *structural*, *splicing impact*, *cross-species conservation* and *RNA-seq expression*).
 
-Below, click on the [development code](https://gitlab.com/bu_cnio/trifid) and [poster presentation](https://gitlab.com/fpozoc/ismb2020_evocompgen_826) repositories.
+[Development code](https://gitlab.com/bu_cnio/trifid) and [poster presentation](https://gitlab.com/fpozoc/ismb2020_evocompgen_826) repositories.
 
 <div>
 </div>
