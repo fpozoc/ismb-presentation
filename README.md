@@ -1,6 +1,10 @@
 # TRIFID: determining functional isoforms
 
-![TRIFID](../poster/img/../../ismb-presentation/poster/EvoCompGen_826.jpg)
+<div align="center">
+  <img src="../ismb-presentation/poster/EvoCompGen_826.jpg"><br>
+</div>
+
+
 
 Video presentation and poster session prepared for the annual International Conference on Intelligent Systems for Molecular Biology (ISMB)
 
