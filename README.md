@@ -1,5 +1,9 @@
 # TRIFID: determining functional isoforms
 
+![TRIFID](../poster/img/../../ismb-presentation/poster/EvoCompGen_826.jpg)
+
+Video presentation and poster session prepared for the annual International Conference on Intelligent Systems for Molecular Biology (ISMB)
+
 ## COSI: EvoCompGen 826 (poster session)
 
 **Authors**: *Fernando Pozo Ocampo, Laura Martinez Gomez and Michael Tress*
