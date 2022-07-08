@@ -1,7 +1,7 @@
 # TRIFID: determining functional isoforms
 
 <div align="center">
-  <img src="../ismb-presentation/poster/EvoCompGen_826.jpg"><br>
+  <img src="poster/EvoCompGen_826.jpg"><br>
 </div>
 
 
